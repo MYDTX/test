@@ -6,3 +6,5 @@
  * Time: 15:11
  */
 phpinfo();
+time();
+date();
